@@ -7,12 +7,8 @@
 
 ## About me
 
-💻 &nbsp;Desenvolvedor Web Full Stack  
-👨‍🏫 &nbsp;Professor de Programação  
-🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  
-📊 &nbsp;Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
-⚡ &nbsp;Bacharel em Engenharia Elétrica    
-🎥 &nbsp;YouTuber  
+🎆&nbsp;jsaaaaaaaaaaaaa
+🎃&nbsp;wwwwwwwwwwwwwwwwww
 
 ## Experiência Profissional
 
