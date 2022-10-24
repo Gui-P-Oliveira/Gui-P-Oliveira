@@ -1,24 +1,5 @@
 # Hello world, I am Guilherme P Oliveira.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-GuilhermeOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-pereira-de-oliveira/)](https://www.linkedin.com/in/guilherme-pereira-de-oliveira-110543178/) 
-[![Gmail Badge](https://img.shields.io/badge/-gui88po@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui88po@gmail.com)](mailto:gui88po@gmail.com)
-
-<!--![Gui-P-Oliveira's github stats](https://github-readme-stats.vercel.app/api?username=Gui-P-Oliveira&show_icons=true&theme=tokyonight)-->
-
-## About me
-
-🎁 &nbsp; Desenvolvedor Web Full Stack  
-🧁 &nbsp; Microempreendedor-Confeitaria   
-🧪 &nbsp; Doutorando em Ciências-incompleto (Bioquímica e Biotecnologia de Plantas)  
-🧪 &nbsp;Mestre em Ciências (Fisiologia e Bioquímica de Plantas)  
-🏕 &nbsp;Bacharel e Licenciado em Ciências Biológicas
-
-## Experiência Profissional
-
-🧫 &nbsp;[Jun de 2020 - Jul de 2020] Assistente de pesquisa-PIPE-FAPESP  
-🍰 &nbsp;[Jan de 2018 - Mar de 2020] Microempreendedor-Confeitaria na @Docespassiflora  
-👨‍⚕️ &nbsp;[Out de 2015 - Dez de 2016] Doctoral Student at Universiteit Gent  
-
 ## 🛠️ Skills
 
 ### :wrench: Tools and environments
@@ -41,8 +22,8 @@
 ### :computer: Back-End Development
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+![mongodb](https://img.shields.io/badge/MongoDB-14354C?style=for-the-badge&logo=mongodb&logoColor=grenn) 
 ![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)	
-
-
+ 
